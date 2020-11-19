@@ -1,0 +1,13 @@
+C:\Users\mbm6415\source\repos\MaximumStringInstances\MaximumStringInstances\bin\Debug\netcoreapp3.1\MaximumStringInstances.exe
+C:\Users\mbm6415\source\repos\MaximumStringInstances\MaximumStringInstances\bin\Debug\netcoreapp3.1\MaximumStringInstances.deps.json
+C:\Users\mbm6415\source\repos\MaximumStringInstances\MaximumStringInstances\bin\Debug\netcoreapp3.1\MaximumStringInstances.runtimeconfig.json
+C:\Users\mbm6415\source\repos\MaximumStringInstances\MaximumStringInstances\bin\Debug\netcoreapp3.1\MaximumStringInstances.runtimeconfig.dev.json
+C:\Users\mbm6415\source\repos\MaximumStringInstances\MaximumStringInstances\bin\Debug\netcoreapp3.1\MaximumStringInstances.dll
+C:\Users\mbm6415\source\repos\MaximumStringInstances\MaximumStringInstances\bin\Debug\netcoreapp3.1\MaximumStringInstances.pdb
+C:\Users\mbm6415\source\repos\MaximumStringInstances\MaximumStringInstances\obj\Debug\netcoreapp3.1\MaximumStringInstances.csprojAssemblyReference.cache
+C:\Users\mbm6415\source\repos\MaximumStringInstances\MaximumStringInstances\obj\Debug\netcoreapp3.1\MaximumStringInstances.AssemblyInfoInputs.cache
+C:\Users\mbm6415\source\repos\MaximumStringInstances\MaximumStringInstances\obj\Debug\netcoreapp3.1\MaximumStringInstances.AssemblyInfo.cs
+C:\Users\mbm6415\source\repos\MaximumStringInstances\MaximumStringInstances\obj\Debug\netcoreapp3.1\MaximumStringInstances.csproj.CoreCompileInputs.cache
+C:\Users\mbm6415\source\repos\MaximumStringInstances\MaximumStringInstances\obj\Debug\netcoreapp3.1\MaximumStringInstances.dll
+C:\Users\mbm6415\source\repos\MaximumStringInstances\MaximumStringInstances\obj\Debug\netcoreapp3.1\MaximumStringInstances.pdb
+C:\Users\mbm6415\source\repos\MaximumStringInstances\MaximumStringInstances\obj\Debug\netcoreapp3.1\MaximumStringInstances.genruntimeconfig.cache
